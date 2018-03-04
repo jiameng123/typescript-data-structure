@@ -155,4 +155,4 @@ father.add(1);
 father.add(2);
 father.add(3);
 var subsetAB = child.subset(father);
-console.log(subsetAB); // ture
+console.log(subsetAB); // 返回为 true
