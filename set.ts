@@ -74,4 +74,4 @@ set.add('name')
 console.log(set.values()); // 输出 [1, 2, 'name'];
 console.log(set.has(1)) // 输出true
 console.log(set.size()) //输出3
-//dawda w wd 
+//dawda w d 
