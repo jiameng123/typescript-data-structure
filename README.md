@@ -1,1 +1,1 @@
-使用typescript 描述数据结构
+使用typescript 描述数据结构及算法
